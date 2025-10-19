@@ -34,3 +34,20 @@ h1{
 .ikona4{
 	width: 110%;
 }
+
+.align {
+	text-align: center;
+}
+
+.flexbox{
+	display: flex;
+	align-items: center;
+	justify-items: center;
+}
+.row{
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+.whitetext{
+	color:white;
+}
