@@ -6,6 +6,31 @@ h1{
 }
 
 .ikonespanw {
-	height: 40vh;
+	height: 45vh;
+	 width: 100%;
 }
 
+.mov{
+	background-color: #5b0083;
+}
+
+.ikona1{
+	height: 100%;
+}
+
+.p1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 200px;
+	color: white;
+}
+.ikona2{
+	
+}
+.ikona3{
+	width: 90%;
+}
+.ikona4{
+	width: 110%;
+}
